@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigaWorld", "AmigaWorld\AmigaWorld.csproj", "{3B2E9C56-FE88-4361-ABAA-3759C6098534}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectorGadget", "InspectorGadget\InspectorGadget.csproj", "{CEF59C12-1D41-49B2-97CF-C2AC8A75D863}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B2E9C56-FE88-4361-ABAA-3759C6098534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B2E9C56-FE88-4361-ABAA-3759C6098534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B2E9C56-FE88-4361-ABAA-3759C6098534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF59C12-1D41-49B2-97CF-C2AC8A75D863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF59C12-1D41-49B2-97CF-C2AC8A75D863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF59C12-1D41-49B2-97CF-C2AC8A75D863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF59C12-1D41-49B2-97CF-C2AC8A75D863}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
