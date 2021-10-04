@@ -14,6 +14,10 @@ Amaç GamersService.asmx ve MagazineService.asmx ile içindeki web metotları ya
 
 ## Gelişim
 
-- Çözüme Roslyn kullanan bir Console uygulaması eklenir.
+- Çözüme Roslyn kullanan bir Console uygulaması ekledim.
+- Hem Console'a hem de Text dosyasına log bırakmak istediğimden Observer desenini kullanan bir düzenleme yaptım.
+- İlkel kodlarla solution içindeki projeleri ve ilgili nitelikleri uygulayan tipleri dolaşıp bilgilerini ekrana bastırdım.
 
-___devam edecek___
+Buna göre aşağıdakine benzer bir çıktı elde ettim.
+
+![./assets/screenshot_2.png](./assets/screenshot_2.png)
